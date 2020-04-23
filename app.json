@@ -1,0 +1,17 @@
+{
+  "name": "pandey",
+  "displayName": "pandey",
+  "expo": {
+    "name": "pandey",
+    "slug": "pandey",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
